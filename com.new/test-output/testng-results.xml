@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44" started-at="2020-11-17T18:04:42Z" finished-at="2020-11-17T18:04:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44" started-at="2020-11-17T18:04:42Z" finished-at="2020-11-17T18:04:42Z">
+      <class name="package1.class1">
+        <test-method status="PASS" signature="test()[pri:0, instance:package1.class1@457e2f02]" name="test" duration-ms="15" started-at="2020-11-17T23:34:42Z" finished-at="2020-11-17T23:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- package1.class1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
