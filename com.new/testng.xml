@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="package1.class1"/>
+      <class name="package1.class_2"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
